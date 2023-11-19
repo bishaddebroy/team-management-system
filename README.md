@@ -11,7 +11,7 @@ Follow the instructions below to set up and run the Team Management System API l
 Make sure you have the following installed:
 
 - [Node.js](https://nodejs.org/)
-- [MySQL] (https://mysql.org/)
+- [MySQL](https://mysql.org/)
 - [Docker](https://www.docker.com/)
 
 ### Installation
