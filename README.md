@@ -36,7 +36,7 @@ Create Team Endpoint: (Postman or any other REST Clients)
 POST /create-team
 
 Headers:
-Authorization: Bearer <your-jwt-token>
+Authorization: Bearer `<your-jwt-token>`
 
 Body (JSON):
 {
@@ -52,7 +52,7 @@ Response:
 }
 
 Notes
-Make sure to replace <your-jwt-token> with a valid JWT token for authentication.
+Make sure to replace `<your-jwt-token>` with a valid JWT token for authentication.
 Ensure that the required fields (name and category) are included in the request body for creating a team.
 
 Replace `<repository-url>` with the actual URL of your Git repository.
